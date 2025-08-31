@@ -1,0 +1,101 @@
+---
+title: "Mia Silva"
+image: "mia_circle.jpg"
+links:
+  - label: '`r fontawesome::fa("file-lines", fill = "#68A39F")` Resume'
+    url: "https://docs.google.com/document/d/1tnwgUzmvh0W97UDVXwC5V3BgGap5SfsH3o6hSrSzTRA/edit?usp=sharing"
+  - label: '`r fontawesome::fa("linkedin", fill = "#68A39F")` LinkedIn'
+    url: "https://www.linkedin.com/in/mia-silva0208/"
+  - label: '`r fontawesome::fa("github", fill = "#68A39F")` GitHub'
+    url: "https://github.com/msilva21-jh"
+  - label: '`r fontawesome::fa("envelope", fill = "#68A39F")` Email'
+    url: "mailto:msilva21@jh.edu"
+output:
+  postcards::trestles
+---
+
+```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+ 
+## <span style="color:  #2D4947;"> `r fontawesome::fa("user", fill = "#2D4947", prefer_type="solid")` Bio</span>
+<br>
+I am currently attending Johns Hopkins Bloomberg School of Public Health as a Master of Science Candidate in the Department of Biostatistics. I aim to build a more robust skill set in study design and statistical data analysis in pursuit of a higher level career in clinical and public health research.
+
+I previously worked for two years as a Staff Research Associate in the Department of Pediatrics at UC Davis Health where I coordinated studies and projects for the Diabetes Research Team in Pediatric Endocrinology, and gained well-rounded knowledge in clinical research protocol, regulations, and practices. It was there where I solidified my passion for research and sparked my interest in biostatistics.
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("graduation-cap", fill = "#2D4947")` Education</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #68A39F;"> Johns Hopkins Bloomberg School of Public Health</span>** | [Aug 2025 - Present]{style="float:right"} |
+| ScM in Biostatistics | [Baltimore, MD]{style="float:right"} |
+|<br>|   |
+| **<span style="color:  #68A39F;"> University of California, Davis</span>**| [Sept 2019 - Dec 2022]{style="float:right"} |
+| B.S. in Cognitive Science with Neuroscience Emphasis, Minor in Psychology | [Davis, CA]{style="float:right"} |
+|<br>|   |
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("lightbulb", fill = "#2D4947")` Research Experience</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #68A39F;"> UC Davis Health, Pediatric Endocrinology & Diabetes</span>** | [Aug 2023 - Aug 2025]{style="float:right"} |
+| Staff Research Associate II | [Sacramento, CA]{style="float:right"} |
+|<br>|   |
+| **<span style="color:  #68A39F;"> UC Davis Center for Mind and Brain, Memory and Development Lab</span>**| [June 2021 - Dec 2022]{style="float:right"} |
+| Research Assistant | [Davis, CA]{style="float:right"} |
+|<br>|   |
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("apple-whole", fill = "#2D4947")` Teaching Experience</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #68A39F;"> UC Davis Academic Assistance and Tutoring Center</span>** | [Sept 2021 - Mar 2023]{style="float:right"} |
+| Physics Tutor | [Davis, CA]{style="float:right"} |
+|<br>|   |
+| **<span style="color:  #68A39F;"> UC Davis Department of Biology</span>**| [Jan 2021 - June 2021]{style="float:right"} |
+| Learning Assistant | [Davis, CA]{style="float:right"} |
+|<br>|   |
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("screwdriver-wrench", fill = "#2D4947")` Skills</span>
+
+|  |  |
+|:------------------------------------------------|:--------------------|
+| **<span style="color:  #68A39F;"> Computer</span>** | **<span style="color:  #68A39F;"> Laboratory</span>** |
+| - R `r fontawesome::fa("r-project", fill = "#2D4947")` | - Blood processing `r fontawesome::fa("droplet", fill = "#2D4947")` |
+| - Microsoft Excel, Word, and Powerpoint `r fontawesome::fa("microsoft", fill = "#2D4947")` | - Urine processing `r fontawesome::fa("glass-water", fill = "#2D4947")` |
+| - REDCap `r fontawesome::fa("desktop", fill = "#2D4947")` | - fMRI safety monitoring `r fontawesome::fa("brain", fill = "#2D4947")` |
+| - Qualtrics `r fontawesome::fa("network-wired", fill = "#2D4947")` ||
+| - Epic/EMR `r fontawesome::fa("laptop-medical", fill = "#2D4947")` ||
+| - OnCore `r fontawesome::fa("calendar-check", fill = "#2D4947")`||
+| - Docusign `r fontawesome::fa("file-signature", fill = "#2D4947")`||
+| - Google Docs, Slides, Sheets, and Forms `r fontawesome::fa("google", fill = "#2D4947")`|
+| - Familiar with Python `r fontawesome::fa("python", fill = "#2D4947")`||
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("certificate", fill = "#2D4947")` Certifications</span>
+**<span style="color:  #68A39F;"> CITI Trainigs</span>**
+<br>
+- Basic Course for Biomedical Researchers and Staff (Exp. 9/13/26)
+<br>
+- Good Clinical Practice Course for Clinical Trials Involving Investigational Medical Devices (Exp. 5/15/28)
+
+---
+
+## <span style="color:  #2D4947;"> `r fontawesome::fa("heart", fill = "#2D4947")` Interests and Hobbies</span>
+<br>
+I love music `r fontawesome::fa("music", fill = "#2D4947")`, reading `r fontawesome::fa("book-open-reader", fill = "#2D4947")`, cozy gaming `r fontawesome::fa("gamepad", fill = "#2D4947")`, exploring new places `r fontawesome::fa("tree", fill = "#2D4947")`, and spending time with friends and family `r fontawesome::fa("people-group", fill = "#2D4947")`! 
+
+I also enjoy trying new restaurants and cafes `r fontawesome::fa("bowl-food", fill = "#2D4947")`, and am always on the lookout for a good cup of coffee or tea `r fontawesome::fa("mug-saucer", fill = "#2D4947")`. 
+
+I hope to travel more in the future, especially internationally `r fontawesome::fa("globe", fill = "#2D4947")`!
+
